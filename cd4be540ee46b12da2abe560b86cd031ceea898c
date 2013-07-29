@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_76db8eee",
+        "filename": "src/crypto/tls_openssl.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1332,
+      "author": {
+        "id": 341
+      },
+      "writtenOn": "2013-07-29T15:31:01Z",
+      "side": 1,
+      "message": "You should be sending the address of \u0027value\u0027 since keystore_get() expects \u0027**\u0027 so that it can allocate and fill the pointer. Should be:\nint length \u003d keystore_get(key, strlen(key), \u0026value);",
+      "revId": "cd4be540ee46b12da2abe560b86cd031ceea898c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
