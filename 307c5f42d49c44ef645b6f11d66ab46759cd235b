@@ -1,0 +1,11 @@
+Code-Review+1: Oleg Drokin <green@linuxhacker.ru>
+Code-Review+1: Taichi Nishimura <fuzzzzzzzzzzzzzzzzzz@gmail.com>
+Code-Review+1: Hashcode <hashcode0f@gmail.com>
+Code-Review+1: David Marble <drmarble1@gmail.com>
+Code-Review+2: Thomas Wendt <thoemy@gmx.net>
+Verified+1: Thomas Wendt <thoemy@gmx.net>
+Submitted-by: Thomas Wendt <thoemy@gmx.net>
+Submitted-at: Mon, 04 Nov 2013 21:59:03 +0000
+Reviewed-on: http://review.cyanogenmod.org/51129
+Project: CyanogenMod/android_external_wpa_supplicant_8_ti
+Branch: refs/heads/cm-10.2
